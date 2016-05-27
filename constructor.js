@@ -8,4 +8,4 @@
 
 //Now create a new array called newBands and push each of the objects that you made into that array.
 
-//Alright, you have created new objects using a constructor function. Let's say we want to add a new key to the constructor function. To do so, go ahead and create a method called bandInfo using the prototype methos for the Band constructor. Let's have the bandInfo method alert the band's name and their music genre.
+//Alright, you have created new objects using a constructor function. Let's say we want to add a new key to the constructor function. To do so, go ahead and create a method called bandInfo using the prototype method for the Band constructor. Let's have the bandInfo method alert the band's name and their music genre.
